@@ -1,15 +1,12 @@
 #!/usr/bin/python3
-"""
-contains the MyList class
-"""
+
+
+"""MyList class"""
 
 
 class MyList(list):
-    """a subclass of list"""
-    def __init__(self):
-        """initializes the object"""
-        super().__init__()
+    """My list class inheritting list"""
 
     def print_sorted(self):
-        """prints the sorted list"""
-        print(sorted(self))
+        """Print a list sorted in ascending order"""
+        print(sorted(self, reverse=False))
