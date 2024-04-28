@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Retrieves your GitHub ID using your GitHub credentials (username and password) and the GitHub API.
-
+Take GitHub credentials (username and password) and use the GitHub API
+to display your id
 """
 
 if __name__ == '__main__':

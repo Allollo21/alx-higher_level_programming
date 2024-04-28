@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Sends a POST request to the provided URL, including the email as a parameter, and then showcases the body of the response.
-"""
+Sends a POST request to the passed URL with the email as a parameter,
+and finally displays the body of the response."""
 
 
 if __name__ == '__main__':
