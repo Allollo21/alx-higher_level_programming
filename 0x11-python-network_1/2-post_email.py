@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Initiates a POST request to the provided URL, passing the email as a parameter,
-then showcases the decoded body of the response in UTF-8.
+Initiates a POST request to the provided URL, passing the email as a parameter, then showcases the decoded body of the response in UTF-8.
+
 """
 
 if __name__ == '__main__':

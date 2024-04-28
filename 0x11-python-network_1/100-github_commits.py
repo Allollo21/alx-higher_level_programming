@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
-Retrieve and display the IDs of the 10 most recent commits (from the newest to the oldest)
-made by the user 'rails' in the 'rails' repository. Utilize the GitHub API for this task.
+Retrieve and display the IDs of the 10 most recent commits (from the newest to the oldest) made by the user 'rails' in the 'rails' repository. Utilize the GitHub API for this task.
 """
 
 

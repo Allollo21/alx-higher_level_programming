@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
 Executes a request to the specified URL and presents the decoded body of the response using UTF-8 encoding.
+
 """
 
 
